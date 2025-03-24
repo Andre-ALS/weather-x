@@ -1,4 +1,4 @@
-# Weather App
+# Weather X
 
 This project is a weather application built with React that displays the temperature, humidity, and pressure for three cities: Urubici - SC, Joinville - SC, and San Francisco - CA. It fetches real-time weather data from an API and allows you to easily extend the list of cities in the future.
 
