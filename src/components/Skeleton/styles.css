@@ -1,0 +1,17 @@
+.skeleton {
+  background: linear-gradient(to right, #d3d3d3, #bebebe);
+  background-size: 400% 400%;
+  animation: backgroundKeyFrames 2s infinite ease-in-out;
+}
+
+@keyframes backgroundKeyFrames {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
